@@ -1,4 +1,7 @@
 #  Java Machine Learning (JML)
+
+**NOTE: Feel free to check the output images below!**
+
 Welcome to JML, a Java implementation of basic clustering techniques from scratch using the MNIST dataset. This project made me expand my technical ability in Java programming as well as my knowledge in machine learning by solving problems covered by popular Python packages such as Pandas and Sklearn.
 
 Throughout this project, I have expanded my skills in Java programming and machine learning, learning to overcome the challenges of implementing algorithms from scratch. I aimed to develop robust object-oriented code and implemented  testing to ensure that all of my code was reliable and efficient. The aim of this project was NOT to achieve good AI metrics.
@@ -7,7 +10,7 @@ This project originally stemmed from a course of my Artificial Intelligence Mast
 
 I thoroughly enjoyed developing my skills in other programming languages that are not Python,  and to gain another perspective in machine learning. 
 
-**Feel free to check the output images below!**
+
 
 
 <hr></hr>
