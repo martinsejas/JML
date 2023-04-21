@@ -11,9 +11,39 @@ I thoroughly enjoyed developing my skills in other programming languages that ar
 
 <hr></hr>
 
-I have also included the original assignment prompt as a word document (with permission of my University), however feel free to explore the code, I made sure to comment as thoroughly as possible. 
+## Exploring the Code
+
+The best way to explore the code is to clone this repository in your local machine, and opening it in a IDE, preferably IntelliJ Idea (JetBrains) which is the one that was used to create this project. 
+
+If not I do recommend starting on the folder *src/main* which is the main starting point. Under *src/* we also have the folder *test/* containing all of the testing code.
+
+I have also included the original assignment prompt as a PDF, which should help make sense of the code (with permission of my University), feel free to explore the code, I made sure to comment as thoroughly as possible. 
 
 If any doubts, clarifications or feedback please feel free to contact me. 
 
 
 Thank you for checking out my work.
+
+
+Folder structure: 
+```
++---.idea
++---dataset
++---src
+|   +---main (START HERE)
+|   |   +---java
+|   |   |   \---fr
+|   |   |       \---epita
+|   |   |           \---sejas
+|   |   |               \---martin
+|   |   |                   +---centroid
+|   |   |                   +---exceptions
+|   |   |                   \---images
+|   |   \---resources
+|   \---test
+|       \---java
+|           +---services
+|           \---test
+\---target (IGNORE)
+ 
+```
